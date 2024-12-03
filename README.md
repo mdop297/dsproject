@@ -72,6 +72,8 @@
 ├── template.py
 └── templates
     └── index.html
+
+14 directories, 36 files
 ```    
 
 ## Config management
